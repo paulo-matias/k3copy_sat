@@ -1,1 +1,0 @@
-# k3copy_sat
